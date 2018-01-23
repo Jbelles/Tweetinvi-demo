@@ -12,9 +12,7 @@ namespace TwitterDemo.Tests
         public void TestInitialize()
         {
             Auth.SetUserCredentials(
-                //Account is @JarretKoder (jarret@koder.ai)
-                //PW is KoderDevAccount
-                //These 2 keys are specific to Jarret's Developer App
+                //These 2 keys are specific to Your Developer App
                 "<Key1>",
                 "<Key2>",
 
